@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "name": "John M",
+      "login": "johnm",
+      "email": "john@gmail.com",
+      "password": "123321",
+      "id": 1
+    }
+  ],
+  "banks": [
+    {
+      "name": "Bank1",
+      "contact": 1111,
+      "address": "Jersey City, NJ",
+      "id": 1
+    },
+    {
+      "name": "Bank2",
+      "contact": 2222,
+      "address": "Philadelphia, PA",
+      "id": 2
+    },
+    {
+      "name": "BANK3",
+      "contact": "3232",
+      "address": "Brooklyn,NY",
+      "id": 3
+    },
+    {
+      "name": "BANK4",
+      "contact": "4443",
+      "address": "Staten Island, NY",
+      "id": 4
+    },
+    {
+      "name": "Bank5",
+      "contact": 5555,
+      "address": "Manhattan, NY",
+      "id": 5
+    }
+  ]
+}
